@@ -1,0 +1,6 @@
+maps-side-menu {
+    position: fixed;
+    top: 120px;
+    left: 20px;
+    z-index: 999;
+}
